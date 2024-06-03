@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lok013&label=Profile%20views&color=0e75b6&style=flat" alt="lok013" /> </p>
 
-- 🌱 I’m currently learning **I am currently learning frameworks in Python**
+- 🌱 I’m currently learning **frameworks in Python**
 
-- 📫 How to reach me **If you want to reach-out me contact me at aloksharma132005@gmail.com**
+- 📫 **If you want to reach-out me contact me at aloksharma132005@gmail.com**
 
 - 📄 Know about my experiences [https://blush-katrinka-85.tiiny.site/](https://blush-katrinka-85.tiiny.site/)
 
